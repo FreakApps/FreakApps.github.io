@@ -18,9 +18,9 @@ The Freak Ventures : Parent/Umbrella Holdings firm. LLC.
 ### Support or Contact
 
 Having trouble? Check out [this](http://github.com/FreakApps) and we’ll help you sort it out.
- # 
- #
- ###### The Freak Studios
+----
+##### The Freak Studios
+----
 ### Support or Contact
 
 Having trouble? Check out http://github.com/FreakApps and we’ll help you sort it out.
